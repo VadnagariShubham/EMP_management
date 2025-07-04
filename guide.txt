@@ -1,0 +1,17 @@
+aa project ma 
+step 1;
+cd Employee-Ms 
+step 2:
+npm run dev
+step3:
+admin nu log in kaarva mate
+name: admin@me.com
+pass: 123
+
+and 
+
+Employee nu login karva mate
+
+name: (localstorage mathi joi leva)
+
+first employee = e@e.com,pass:123

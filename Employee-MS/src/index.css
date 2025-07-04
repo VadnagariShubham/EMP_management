@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*{
+  color:#fff;
+}
+
+body{
+  background-color: black;
+}
+
+#Tasklist::-webkit-scrollbar{
+   display: none;/*anathi scroll bar dekhatu jatu rese */
+
+}
